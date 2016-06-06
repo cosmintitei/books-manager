@@ -1,0 +1,27 @@
+# Eclipse: All project files
+.classpath
+.project
+.externalToolBuilders/
+.settings/
+.buildpath
+
+# IntelliJ: All project files
+.idea/
+*.iml
+*.iws
+
+# Build: Dependencies and output files
+coverage/
+node_modules/
+vendor/
+build/
+reports/
+
+# Other: Miscellaneous files
+*.mo
+*.log
+
+# OS specific files
+.DS_Store
+temp
+target

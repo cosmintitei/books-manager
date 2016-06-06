@@ -1,0 +1,25 @@
+{
+  "name": "books-manager",
+  "version": "0.0.0",
+  "description": "Books Manager",
+  "private": true,
+  "author": {
+    "name": "-",
+    "email": "-"
+  },
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-route": "1.5.x",
+    "angular-sanitize": "1.5.x",
+    "angular-touch": "1.5.x",
+    "angular-material": "1.0.x",
+    "material-design-icons": "2.2.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.5.x"
+  },
+  "resolutions": {
+    "angular": "1.5.x",
+    "angular-route": "1.5.x"
+  }
+}
